@@ -1,0 +1,142 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;    
+    box-sizing: border-box;
+}
+
+.pinkbox_container{
+    display: flex; 
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
+
+.pinkbox{
+    background-color: rgb(236, 38, 130);
+    height: 3rem;
+    width: 70rem;
+    text-align: center;
+    color: white;
+    padding-top: 13px;
+}
+
+.wordsbox_container{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+}
+
+.img1{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 15px;
+    align-items: center;
+}
+
+.wordsbox{
+    color: rgb(37, 37, 37); 
+}
+
+.h5{
+    padding-left: 9rem;
+    font-size: 14px;
+} 
+
+.button3 {
+    background-color: rgb(169, 65, 230); 
+    color: #ffffff; 
+    height: 40px;
+    width: 6rem;
+    border-radius: 20px;
+    border: 2px solid white;
+    margin-left: 8rem;
+}
+
+.topnav {
+    justify-content: center;
+    flex-direction: row;
+}
+
+.words2box{
+    color: rgb(14, 14, 36);
+    font-size: 60px;
+    padding-top: 4rem;
+    text-align: center;
+}
+
+.smallword{
+    color: rgb(95, 95, 95);
+    font-size: 16px;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.purplebox2{
+    background-color: rgb(150, 94, 241); 
+    color: #ffffff; 
+    height: 45px;
+    width: 8rem;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 13px;
+}
+
+.img2{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.purplebox2_container{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+
+.img3{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.img4{
+    display: flex; 
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 4rem;
+}
+
+.img {
+    border-radius: 50px;
+}
+
+.column {
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.row {
+  display: flex;
+}  
+
+.greyword{
+    color: rgb(112, 112, 112);
+    padding-top: 4rem;
+}
+
+.pinkword{
+    color: rgb(214, 117, 185);
+    font-size: 13px;
+    padding-top: 4rem;
+}
+
+.words3box{
+    color: rgb(14, 14, 36);
+    font-size: 35px;
+    text-align: center;
+}
